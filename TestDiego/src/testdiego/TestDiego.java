@@ -18,6 +18,10 @@ public class TestDiego {
         System.out.println("Hola Mundo desde Diego!");
         System.out.println("Edgar dice: Hola también!");
         System.out.println("Patata");
+        
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
     
     
