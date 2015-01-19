@@ -17,6 +17,8 @@ public class TestDiego {
     public static void main(String[] args) {
         System.out.println("Hola Mundo desde Diego!");
         System.out.println("Edgar dice: Hola también!");
+        System.out.println("Patata");
     }
+    
     
 }
